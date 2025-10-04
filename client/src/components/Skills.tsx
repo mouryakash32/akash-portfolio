@@ -8,13 +8,13 @@ export default function Skills() {
       title: "MERN Stack",
       icon: Code,
       color: "primary",
-      skills: ["MongoDB", "Express.js", "React", "Node.js", "JavaScript", "TypeScript"],
+      skills: ["MongoDB", "Express.js", "React", "Node.js", "JavaScript"],
     },
     {
       title: "AI/ML Toolkit",
       icon: Brain,
       color: "accent",
-      skills: ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Statistics"],
+      skills: ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Statistics", "scikit learn"],
     },
     {
       title: "Tools & Technologies",
